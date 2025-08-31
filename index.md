@@ -1,3 +1,11 @@
+# Tanuj Barman's First CS192 Homework
+
+```
+My favorite things about CS193:
+ - I will get to learn a bunch of useful coding skills
+ - The class doesn't require too much in-class time so I can work at my own pace
+```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
